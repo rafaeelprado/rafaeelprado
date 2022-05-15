@@ -46,11 +46,12 @@
 <a href="https://linkedin.com/in/rafapsd" target="_blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
+<a href="mailto:rafapsd@gmail.com">
+<img align="center" src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+</a>
 <a href="https://instagram.com/rafaeelprado" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Instagram-405DE6?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
+<img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
-<a href="https://twitter.com/rafaelprdo" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="codepen"/>
-</a>
+
   
 </p>
