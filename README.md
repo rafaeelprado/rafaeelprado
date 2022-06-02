@@ -46,7 +46,7 @@
 <a href="mailto:rafapsd@gmail.com">
 <img align="center" src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
 </a>
-<a href="https://instagram.com/rafaeelprado" target="_blank">
+<a href="#" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 
