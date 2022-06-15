@@ -1,6 +1,5 @@
 
 <h1 align="left">Hello! I'm Rafael 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaeelprado&color=blue" alt="Profile views" /> </p>
 
 - 🙂 I'm currently open to work
 
