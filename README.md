@@ -1,56 +1,26 @@
+<img align="right" src="https://www.grmdocumentmanagement.com/wp-content/uploads/2020/10/medical-coding-workflow.png" width="300"/>
 
-<h1 align="left">Hello! I'm Rafael 👋</h1>
+## :wave: Welcome to my Github
 
-- 🙂 I'm currently open to work
+Hello! I'm **Rafael Prado**, I'm a programming lover and I live in **Brazil**. I'm currently studying and deepening myself in **JavaScript/TypeScript** and
+**ReactJS/NextJS**. :heart:
 
-- 📫 You can reach me on rafapsd@gmail.com
+## about me
+<br/>🌍 based in Sergipe, Brazil
+<br/>🎓 graduated in 2017 from Letters at UNIT
+<br/>🔭 changing carrer paths
+<br/>👨‍🚀 currently coursing react & next from Udemy <a href="https://github.com/Udemy" target="_blank">@udemy</a>
+<br/>🌱 studying **Web development** 💻
+<br/>🤝 keen to collaborate in open source projects
+<br/>📔 usually take notes on <a href="https://www.notion.so/pt-br" target="_blank">notion</a>
+<br> 💬 find more about me in [my student portfolio](https://rafapradoportfolio.vercel.app/) and feel free to share any thoughts
+<br>
 
-- 🌱 I’m currently learning JavaScript, React and Nextjs. 
+## connect with me
+- :mailbox: Send me an Email: [`rafapsd@gmail.com`](maito:rafapsd@gmail.com)
+- :busts_in_silhouette: Add me on Linkedin: [linkedin/in/rafapsd](https://www.linkedin.com/in/rafapsd/)
+- :camera: Follow me on my Instagram: [@rafaeelprado](https://www.instagram.com/rafaeelprado/)
 
-- ⚡ Fun fact: I love eSports and listen to music. 
+##  tech stacks & tools 
 
-- 💬 Ask me about: **HTML, CSS, JavaScript**
-
-<hr>
-
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Photoshop" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Figma" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="36px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-
-
-<br><br>
-
-### Currently Studying: 
-
-<img align="left" alt="JavaScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="ReactJs" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NextJs" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-
-
-
-<br><br>
-
-<hr>
-
-### Connect with me
-
-<p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/rafapsd" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-</a>
-<a href="mailto:rafapsd@gmail.com">
-<img align="center" src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
-<a href="#" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
-
-  
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,github,git,nodejs,js,ts,react,nextjs,figma&theme=dark)](https://github.com/tandpfun/skill-icons)
