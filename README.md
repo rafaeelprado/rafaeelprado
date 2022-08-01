@@ -6,11 +6,12 @@ Hello! I'm **Rafael Prado**, I'm a programming lover and I live in **Brazil**. I
 **ReactJS/NextJS**. :heart:
 
 ## about me
-<br/>🌍 based in Sergipe, Brazil
-<br/>🎓 graduated in 2017 from Letters at UNIT
+🌍 based in Sergipe, Brazil
+<br/>💻 currently graduating on **Computer System Analysis** at UNIT
 <br/>🔭 changing carrer paths
-<br/>👨‍🚀 currently coursing react & next from Udemy <a href="https://github.com/Udemy" target="_blank">@udemy</a>
-<br/>🌱 studying **Web development** 💻
+<br/>🎓 graduated in 2017 from **Letters** at UNIT
+<br/>👨‍🚀 currently coursing **react & next** from Udemy <a href="https://github.com/Udemy" target="_blank">@udemy</a>
+<br/>🌱 studying **Web development**
 <br/>🤝 keen to collaborate in open source projects
 <br/>📔 usually take notes on <a href="https://www.notion.so/pt-br" target="_blank">notion</a>
 <br> 💬 find more about me in [my student portfolio](https://rafapradoportfolio.vercel.app/) and feel free to share any thoughts
