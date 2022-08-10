@@ -20,7 +20,7 @@ Hello! I'm **Rafael Prado**, I'm a programming lover and I live in **Brazil**. I
 ## connect with me
 - :mailbox: Send me an Email: [`rafapsd@gmail.com`](maito:rafapsd@gmail.com)
 - :busts_in_silhouette: Add me on Linkedin: [linkedin/in/rafapsd](https://www.linkedin.com/in/rafapsd/)
-- :camera: Follow me on my Instagram: [@rafaeelprado](https://www.instagram.com/rafaeelprado/)
+- :camera: Follow me on my Instagram: [@rafaeelprado](#)
 
 ##  tech stacks & tools 
 
