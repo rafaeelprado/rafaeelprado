@@ -1,25 +1,25 @@
-<img align="right" src="https://www.grmdocumentmanagement.com/wp-content/uploads/2020/10/medical-coding-workflow.png" width="300"/>
+## Hi, I'm Rafael 👋 — AI Engineer
 
-## :wave: Welcome to my Github
+I build AI systems that are honest about what they don't know. Coming from 5+ years of full-stack and freelance web development, I'm now focused on retrieval-augmented generation and LLM application engineering — specifically the part most RAG projects skip: proving an answer wasn't fabricated.
 
-Hello! I'm **Rafael Prado**, I'm a programming lover with over 10 years of experience from intern, freelance and CLT experiences. I remain in constant learning improving my skills in **UX/UI Design**.
+### 🔦 Featured project
 
-## about me
-🌍 based in Sergipe, Brazil
-<br/>💻 currently graduating on **Computer System Analysis** at UNIT
-<br/>🔭 changing carrer paths
-<br/>🎓 graduated in 2017 from **Letters** at UNIT
-<br/>🌱 studying **Web development**
-<br/>🤝 keen to collaborate in open source projects
-<br/>📔 usually take notes on <a href="https://www.notion.so/pt-br" target="_blank">notion</a>
-<br> 💬 find more about me in [portfolio](https://www.behance.net/rafapradev) at behance and feel free to share any thoughts
-<br>
+**[Crivo](https://github.com/rafaeelprado/crivo)** — RAG for contract due diligence, with citations verified against the source text.
 
-## connect with me
-- :mailbox: Send me an Email: [`rafapsd@gmail.com`](maito:rafapsd@gmail.com)
-- :busts_in_silhouette: Add me on Linkedin: [linkedin/in/rafapsd](https://www.linkedin.com/in/rafapsd/)
-- :camera: Follow me on my Instagram: [@rafapradev](https://www.instagram.com/rafapradev/)
+Answers questions over a corpus of real Brazilian government contracts, citing the exact document, clause and page — and refuses to answer when the answer isn't in the documents. Four layered defenses against hallucination: relevance-threshold abstention, a closed numbered prompt, literal fuzzy-match citation verification, and an auditable source trail in the UI. Result so far: **10/10 correct abstentions** on out-of-domain questions with zero fabricated answers, and **67 tests** with every model call injected/faked, so the suite runs in seconds and spends zero API tokens. Stack: Python, FastAPI, ChromaDB + BM25 hybrid search, BGE-M3 embeddings, the Claude API with structured tool-use output, and Streamlit.
 
-##  tech stacks & tools 
+📓 [Technical journal](https://github.com/rafaeelprado/crivo/blob/main/docs/DIARIO_TECNICO.md) — the real bugs found, the trade-offs made, and why.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,github,git,js,ts,react,nextjs,figma,wordpress,photoshop&theme=dark)](https://github.com/tandpfun/skill-icons)
+### 🏫 Also shipped
+
+**[colegio-3d-site](https://github.com/rafaeelprado/colegio-3d-site)** — production site for a real school, live at [colegio3d.com.br](https://colegio3d.com.br). Built end-to-end from spec to deploy: hand-written HTML/CSS/JS with no framework, WCAG contrast verified by calculation rather than guesswork, a real production bug found and fixed with root-cause analysis, an LGPD-compliant privacy policy written from the actual code, and a spam-resistant contact form with no third-party captcha.
+
+### 🧰 Stack
+
+**AI / backend:** Python · FastAPI · ChromaDB · BM25 · Claude API (Anthropic) · RAGAS · Docker
+
+**Full-stack foundation:** JavaScript · TypeScript · React · Next.js · HTML5 · CSS3 · WordPress
+
+### 📫 Reach me
+
+Email: [rafapsd@gmail.com](mailto:rafapsd@gmail.com) · LinkedIn: [linkedin.com/in/rafapsd](https://www.linkedin.com/in/rafapsd/) · Also on [Behance](https://www.behance.net/rafapradev) for design work
