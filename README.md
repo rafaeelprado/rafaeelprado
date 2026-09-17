@@ -12,8 +12,6 @@ Answers questions over a corpus of real Brazilian government contracts, citing t
 
 ### 🏫 Also shipped
 
-**[colegio-3d-site](https://github.com/rafaeelprado/colegio-3d-site)** — production site for a real school, live at [colegio3d.com.br](https://colegio3d.com.br). Built end-to-end from spec to deploy: hand-written HTML/CSS/JS with no framework, WCAG contrast verified by calculation rather than guesswork, a real production bug found and fixed with root-cause analysis, an LGPD-compliant privacy policy written from the actual code, and a spam-resistant contact form with no third-party captcha.
-
 **[autonomous-incident-resolver](https://github.com/rafaeelprado/autonomous-incident-resolver)** — multi-agent AI system (CrewAI + Claude) that reads a raw production error log and resolves the incident end-to-end: finds the root cause, audits the source for latent defects the traceback never mentioned, and ships a tested patch with a full postmortem — zero human triage. Agent hand-offs are strict Pydantic-typed contracts, not free text; a sandboxed file tool blocks path traversal; and a pytest suite is the ground truth for "fixed" (3 failing before the patch, 4/4 passing after).
 
 ### 🧰 Stack
